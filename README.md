@@ -1,3 +1,5 @@
+## NAME: ESWANTH KUMAR K
+## REG NO:212223040046
 # FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
